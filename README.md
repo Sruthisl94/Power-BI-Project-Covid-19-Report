@@ -4,7 +4,7 @@ This project involves the analysis and visualization of COVID-19 data using Powe
 ## Data Preprocessing
 Before the data was imported into Power BI, several preprocessing steps were undertaken to ensure data quality and consistency:
 ## Data Cleaning:
-## Missing Values: Missing values were identified and handled. 
+$ Missing Values: Missing values were identified and handled. 
 ## Duplicates: Duplicate records were identified and removed to ensure that each data point was unique.
 ## Calculated Fields: New fields such as Total deaths, Current active cases were created to provide more meaningful insights.
 ## Visualization using Power Bi:
