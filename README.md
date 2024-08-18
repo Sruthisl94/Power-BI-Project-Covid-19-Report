@@ -8,8 +8,9 @@ Before the data was imported into Power BI, several preprocessing steps were und
 * Duplicates: Duplicate records were identified and removed to ensure that each data point was unique.
 *  Calculated Fields: New fields such as Total deaths, Current active cases were created to provide more meaningful insights.
 ## Visualization using Power Bi:
-The covid 19 data is analysed based on country and WHO region and Power BI is used as a visualization tool to create appropriate interactive graphs and charts to gain valuable insights and to better understand the data.
+The covid 19 data is analysed based on country and WHO region and Power BI is used as a visualization tool to create appropriate interactive graphs and charts to gain valuable insights and to better understand the data. Inaddition interactive elements such as buttons and bookmarks were incorporated to enhance user experience.
 ## Conclusion
 * The actice cases and death rate were higher in US.
 * The percentage of recovered ones are also higher in US.
 * The death rate is lower in the western pacific region which include Malaysia, Japan , China , Australia etc..
+* The treemap shows the number of deaths/ 100 cases is higher in European regions.
