@@ -1,6 +1,6 @@
 # Power-BI-Project-Covid-19-Report
 ## Project Overview
-This project involves the analysis and visualization of COVID-19 data using Power BI. The primary objective is to provide insights into the spread of the virus, its impact on various regions, and trends over time. The report is designed to help stakeholders understand the key patterns and make informed decisions based on the data.
+This project involves the analysis and visualization of COVID-19 data using Power BI. The primary objective is to provide insights into the spread of the virus, its impact on various regions. The report is designed to help stakeholders understand the key patterns and make informed decisions based on the data.
 ## Data Preprocessing
 Before the data was imported into Power BI, several preprocessing steps were undertaken to ensure data quality and consistency:
 ## Data Cleaning:
